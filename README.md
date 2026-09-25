@@ -35,13 +35,11 @@ Full-Stack Web Developer passionate about building high-performance web applicat
 
 ### 📊 GitHub Activity
 
-### 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nahiyan24bd&show_icons=true&theme=tokyonight" alt="Nahiyan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nahiyan24bd&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nahiyan24bd&show_icons=true&title_color=f472b6&text_color=e9d5ff&icon_color=a855f7&bg_color=0f0728&border_color=9333ea" alt="Nahiyan's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nahiyan24bd&layout=compact&title_color=f472b6&text_color=e9d5ff&bg_color=0f0728&border_color=9333ea" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahiyan24bd&theme=tokyonight" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahiyan24bd&theme=shades-of-purple&ring=f472b6&fire=a855f7&currStreakLabel=f472b6&background=0f0728&border=9333ea" alt="GitHub Streak" width="98%" />
 </p>
