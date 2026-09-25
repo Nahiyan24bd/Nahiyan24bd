@@ -35,9 +35,11 @@ Full-Stack Web Developer passionate about building high-performance web applicat
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahiyan24bd&show_icons=true&theme=tokyonight" alt="Nahiyan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahiyan24bd&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nahiyan24bd&show_icons=true&theme=tokyonight" alt="Nahiyan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nahiyan24bd&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
