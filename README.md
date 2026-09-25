@@ -1,4 +1,12 @@
-# Hi there, I'm Nahiyan 👋
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nahiyan
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 Full-Stack Web Developer passionate about building high-performance web applications, scalable backend systems, and clean user interfaces.
 
