@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,11,1&height=220&section=header&text=MD%20NAHIYAN&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descAlignY=58&descAlign=50&descColor=f472b6" width="100%" alt="Header Banner" />
+</p>
+
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nahiyan
 </h1>
